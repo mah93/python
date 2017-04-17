@@ -25,3 +25,7 @@
       $ python smtp.py     
         
   ```
+
+* ## search
+
+   寻找目录下所有图片文件 
